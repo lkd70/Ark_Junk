@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## Welcome to LKD70's Ark Junk
 
-You can use the [editor on GitHub](https://github.com/lkd70/Ark_Junk/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a messy collection of Ark related tools, software, and junk. A short summary of each tool is shown below, but please select the tool README for a more detailed look.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Ark Automation
 
-### Markdown
+#### LKD70's ARk: All In One (LKD-AIO)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+\[[Download](https://github.com/lkd70/LKD_ARK_AIO/releases/download/1.5/ARK_All_In_One.exe)\]
+\[[README](https://github.com/lkd70/LKD_ARK_AIO)\]
 
-```markdown
-Syntax highlighted code block
+This ia a general purpose "everyday" script. It's a collection of utilities which are useful for the everyday Ark grind.
+Some examples of what the script can do:
+1. auto feed berries/meat (Removing spoiled)
+2. Auto walk/run
+3. Metal/Shard farm (Magna/Anky swinger)
+4. auto click (toggle)
+5. drop from dedicated storage (bag method)
+6. Owl freeze jump
+7. Crop plot process (remove goodies, fill with fertalizer)
+8. Owl freeze (AFK freezer)
 
-# Header 1
-## Header 2
-### Header 3
+#### LKD70's Blood Bot
 
-- Bulleted
-- List
+\[[Download](https://github.com/lkd70/BloodBot/releases/download/5.2.0/BloodBot.exe)\]
+\[[README](https://github.com/lkd70/BloodBot)\]
 
-1. Numbered
-2. List
+A simple bot to generate blood packs while AFK in tekpod
 
-**Bold** and _Italic_ and `Code` text
+### Ark Websites
 
-[Link](url) and ![Image](src)
-```
+#### LKD70's Ark Server Query (LKD-ASQ)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+\[[README](https://github.com/lkd70/asq-web)\]
 
-### Jekyll Themes
+Very simple SteamQuery web interface
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lkd70/Ark_Junk/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### LKD70's BreedSheet
+
+
+\[[README](https://github.com/lkd70/breedSheet)\]
+
+Web interface for tracking and sorting ark Breed lists (No more discord reactions, etc...)
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble or want to provide feedback?
+
+Discord: LKD70 (Luke)#7070
+
+[Telegram](https://t.me/LKD70)
